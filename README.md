@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖖 Hello world, I come for coffee and peace.<br>🔭 I’m currently working on being a better developper & illustrator.<br>👯 I’m looking to collaborate on some fun opensource projects.<br>🌱 I’m currently learning Java.<br>💬 Ask me about art & mysterious experiences.<br>⚡ Fun fact : I never tell jokes, I can't wake up w/o drinking some coffee in pouring over or french pressed way.
+🖖 Hello world, I come for coffee and peace.<br>🔭 I’m currently working on being a better developper & illustrator.<br>👯 I’m looking to collaborate on some fun opensource projects.<br>🌱 I’m currently learning Java.<br>💬 Ask me about art & mysterious experiences.<br>⚡ Fun (?) fact : I never tell jokes, need animal memes to survive. <br> ☕ I can't wake up w/o drinking some coffee in pouring over or french pressed way.
 
 
 ## 🌐 Socials:
