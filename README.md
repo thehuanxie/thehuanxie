@@ -2,7 +2,7 @@
 
 
 
-### 💫🖖 Hello world   
+### 💫🖖 Hi there   
 ###  I come for coffee and peace.  
   
 
@@ -11,7 +11,7 @@
 
 </td><td valign="top" width="60%">
 
-![]()  
+ 
   
 
 <div align="right">
